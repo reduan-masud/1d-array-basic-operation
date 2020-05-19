@@ -1,1 +1,0 @@
-# 1d-array-basic-operation
